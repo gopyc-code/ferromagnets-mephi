@@ -3,7 +3,7 @@
 ## About
 <img width="2997" height="2199" alt="8_1729417917 1264286" src="https://github.com/user-attachments/assets/3e2ad1b1-e25e-4fc3-aa94-8a91f6f83e33" />
 
-This project provides Python code for processing experimental data from Lab Work 8 at the MEPhI Electricity and Magnetism Laboratory, enabling accurate calculations and visualization of ferromagnetic properties in alternating magnetic fields observed in ferromagnetic rods. Errors are estimated using the [`pyprecision`](https://github.com/gopyc-code/pyprecision) package, and visualizes the results for both long and short rods. The generation of graphs and tables is automated.
+This project provides Python code for processing experimental data from Lab Work 8 at the MEPhI Electricity and Magnetism Laboratory, enabling accurate calculations and visualization of ferromagnetic properties in alternating magnetic fields observed in iron rods. Errors are estimated using the [`pyprecision`](https://github.com/gopyc-code/pyprecision) package, and visualizes the results for both long and short rods. The generation of graphs and tables is automated.
 
 ## Quantities Obtained
 - Magnetic flux density <b>B</b> with uncertainties.
