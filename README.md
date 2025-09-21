@@ -14,7 +14,7 @@ This project provides Python code for processing experimental data from Lab Work
 - Hysteresis loop area <b>σ</b> and specific energy loss <b>w</b> with uncertainties.
 - Power loss <b>P</b> calculated from loop area.
 
-## Visualizations
+## Visualisations
 - **B-H curves** for long and short rods (magnetic flux density vs. field intensity).
 - **μ-H curves** showing the dependence of magnetic permeability on the field intensity.
 - **Hysteresis loops** for long and short rods, including error bars and spline interpolation.
